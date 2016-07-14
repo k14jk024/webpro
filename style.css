@@ -1,0 +1,17 @@
+@CHARSET "windows-31j";
+body{
+	background-image:url(b029.gif);
+}
+table{
+	margin-left:auto;
+	margin-right:auto;
+}
+th{
+	background-color:#00fa9a;
+}
+td{
+	background-color:white;
+}
+td.login{
+	background-image:url(b029.gif);
+}
